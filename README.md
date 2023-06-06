@@ -22,6 +22,7 @@ I'm looking forward to making freinds with all of you!😉
 - 🌱 I’m currently learning CV , Web designing , SQL , TOEFL , Javascript...
 - 💬 Ask me about C++/C , Python 
 - 📫 How to reach me: tjudavidwang@gmail.com
+- 🧑‍💻 Read my blogs: https://wwd.zeabur.app/
 
 ![Github Stats](https://github-readme-stats.vercel.app/api?username=tjuDavidWang&show_icons=true&theme=tokyonight&count_private=true)
 
