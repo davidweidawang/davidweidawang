@@ -15,8 +15,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-I love to talk about ✨ technology✨ and keep learning the latest technology.    
-In my free time, I also love to learn foreign languages💬 and dance💃 !    
+I love to talk about ✨ technology✨ and keep learning the latest technology.     
 I'm looking forward to making freinds with all of you!😉   
 
 - 🔭 I’m currently studying Software Engerneering in Tongji University.
