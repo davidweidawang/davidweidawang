@@ -18,7 +18,7 @@ I love to talk about ✨ technology✨ and keep learning the latest technology.
 I'm looking forward to making freinds with all of you!😉   
 
 - 🔭 I’m currently studying Software Engerneering in Tongji University.
-- 🌱 My research interests lie in Computer Vision (CV), Reinforcement Learning (RL), Human-Computer Interaction (HCI) and Time Series Analysis.
+- 🌱 My research interests lie in Computer Vision (CV), Human-Computer Interaction (HCI) and Time Series Analysis.
 - 📫 How to reach me: tjudavidwang@gmail.com
 - 🧑‍💻 Read my blogs: https://wwd.zeabur.app/
 
