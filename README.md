@@ -1,4 +1,4 @@
-### Hi there 👋，I'm David Wang from Tongji University!
+### Hi there my No.![visitor count](https://profile-counter.glitch.me/tjuDavidWang/count.svg) visitor，I'm David Wang from Tongji University!
 
 <!--
 **tjuDavidWang/tjuDavidWang** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
