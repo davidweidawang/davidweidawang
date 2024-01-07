@@ -22,7 +22,4 @@ I'm looking forward to making freinds with all of you!😉
 - 📫 How to reach me: tjudavidwang@gmail.com
 - 🧑‍💻 Read my blogs: https://wwd.zeabur.app/
 
-![Github Stats](https://github-readme-stats.vercel.app/api?username=tjuDavidWang&show_icons=true&theme=tokyonight&count_private=true)
-
-
-![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=tjuDavidWang&theme=tokyonight&layout=compact)
+![Github Stats](https://github-readme-stats.vercel.app/api?username=tjuDavidWang&show_icons=true&theme=tokyonight&count_private=true) ![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=tjuDavidWang&theme=tokyonight&layout=compact)
