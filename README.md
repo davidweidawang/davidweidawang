@@ -23,8 +23,8 @@ I'm looking forward to making freinds with all of you!😉
 - 🧑‍💻 Read my blogs: https://wwd.zeabur.app/
 
 <div style="display: flex; justify-content: space-between;">
-    <img src="https://github-readme-stats.vercel.app/api?username=tjuDavidWang&show_icons=true&theme=tokyonight&count_private=true" style="width: 49%; height: auto;"/>
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=tjuDavidWang&theme=tokyonight&layout=compact" style="width: 49%; height: auto;"/>
+    <img src="https://github-readme-stats.vercel.app/api?username=tjuDavidWang&show_icons=true&theme=tokyonight&count_private=true" style="width: 49%; height: 200px;"/>
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=tjuDavidWang&theme=tokyonight&layout=compact" style="width: 49%; height: 200px;"/>
 </div>
 
 
