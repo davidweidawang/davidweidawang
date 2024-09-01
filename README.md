@@ -17,8 +17,8 @@ Here are some ideas to get you started:
 I love to talk about ✨ technology✨ and keep learning the latest technology.     
 I'm looking forward to making freinds with all of you!😉   
 
-- 🔭 I’m currently studying Software Engerneering in Tongji University.
-- 🌱 My research interests lie in Graph Signal Processing, Time Series Analysis, Human-Computer Interaction.
+- 🔭 I’m currently studying Software Engineering in Tongji University.
+- 🌱 My research interests lie in Graph Signal Processing, Time Series Analysis, Human-Computer Interaction and AI4Science.
 - 📫 How to reach me: tjudavidwang@gmail.com
 - 🧑‍💻 Read my blogs: https://wwd.zeabur.app/
 
