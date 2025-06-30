@@ -1,4 +1,4 @@
-### Hi there my No.![visitor count](https://profile-counter.glitch.me/tjuDavidWang/count.svg) visitor，I'm David Wang from Tongji University!
+### Hi there my No.![visitor count](https://profile-counter.glitch.me/davidweidawang/count.svg) visitor，I'm David Wang from Tongji University!
 
 <!--
 **tjuDavidWang/tjuDavidWang** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -23,6 +23,6 @@ I'm looking forward to making freinds with all of you!😉
 - 🧑‍💻 Read my blogs: https://wwd.zeabur.app/
 
 <div>
-  <img src="https://github-readme-stats.vercel.app/api?username=tjuDavidWang&show_icons=true&theme=tokyonight&count_private=true" height="190"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=tjuDavidWang&theme=tokyonight&layout=compact" height="190"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=davidweidawang&show_icons=true&theme=tokyonight&count_private=true" height="190"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=davidweidawang&theme=tokyonight&layout=compact" height="190"/>
 </div>
