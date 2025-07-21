@@ -1,4 +1,4 @@
-### Hi there my No.![visitor count](https://profile-counter.glitch.me/davidweidawang/count.svg) visitor，I'm Weida Wang from Fudan University!
+### Hi there，I'm Weida Wang from Fudan University!
 
 <!--
 **tjuDavidWang/tjuDavidWang** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
