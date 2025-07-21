@@ -1,4 +1,4 @@
-### Hi there my No.![visitor count](https://profile-counter.glitch.me/davidweidawang/count.svg) visitor，I'm David Wang from Tongji University!
+### Hi there my No.![visitor count](https://profile-counter.glitch.me/davidweidawang/count.svg) visitor，I'm Weida Wang from Fudan University!
 
 <!--
 **tjuDavidWang/tjuDavidWang** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -17,8 +17,8 @@ Here are some ideas to get you started:
 I love to talk about ✨ technology✨ and keep learning the latest technology.     
 I'm looking forward to making freinds with all of you!😉   
 
-- 🔭 I’m currently studying Software Engineering in Tongji University.
-- 🌱 My research interests lie in Graph-based Machine Learning, Time Series Analysis, LLM Reasoning and AI4Science.
+- 🔭 I am interning at the Shanghai Artificial Intelligence Laboratory (AI for Science Group, guided by Wanli Ouyang).
+- 🌱 My research interests lie in Graph-based Machine Learning, LLM Reasoning and AI4Science.
 - 📫 How to reach me: tjudavidwang@gmail.com
 - 🧑‍💻 Read my blogs: https://wwd.zeabur.app/
 
