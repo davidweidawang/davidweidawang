@@ -19,7 +19,7 @@ I'm looking forward to making freinds with all of you!😉
 
 - 🔭 I am interning at the Shanghai Artificial Intelligence Laboratory (AI for Science Group, guided by Wanli Ouyang).
 - 🌱 My research interests lie in Graph-based Machine Learning, LLM Reasoning and AI4Science.
-- 📫 How to reach me: tjudavidwang@gmail.com
+- 📫 How to reach me: fdudavidwang@gmail.com
 
 <div>
   <img src="https://github-readme-stats.vercel.app/api?username=davidweidawang&show_icons=true&theme=tokyonight&count_private=true" height="190"/>
